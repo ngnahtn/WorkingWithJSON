@@ -20,6 +20,7 @@ struct Connectivity {
 
 class APIClient: NSObject {
     static var shared = APIClient()
+    
     func getOfflineData(completion: @escaping (_ result: [[String:Any]]) -> ()) {
         guard let path = Bundle.main.path(forResource: "data", ofType: "json") else {
             completion([[:]])
@@ -35,6 +36,7 @@ class APIClient: NSObject {
             print("Load JSON OFFLine error")
         }
     }
+
     func requestDataGet(url:String,method:HTTPMethod,params: Parameters!,completion: @escaping (_ result:[[String:Any]]) -> ())  {
 
         if Connectivity.isConnectedToInternet {
