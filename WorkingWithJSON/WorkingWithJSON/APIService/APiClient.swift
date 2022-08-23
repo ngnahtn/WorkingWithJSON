@@ -19,6 +19,7 @@ struct Connectivity {
 }
 
 class APIClient: NSObject {
+
     static var shared = APIClient()
     
     func getOfflineData(completion: @escaping (_ result: [[String:Any]]) -> ()) {
