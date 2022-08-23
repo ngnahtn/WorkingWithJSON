@@ -1,0 +1,6 @@
+framework module Pods_WorkingWithJSON_WorkingWithJSONUITests {
+  umbrella header "Pods-WorkingWithJSON-WorkingWithJSONUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

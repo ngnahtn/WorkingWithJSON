@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Crashlytics (3.14.0):
+    - Fabric (~> 1.10.2)
+  - Fabric (1.10.2)
+  - ObjectMapper (4.2.0)
+  - PKHUD (5.3.0)
+  - SwiftyJSON (5.0.1)
+  - "UIAlertView+Blocks (0.9)"
+
+DEPENDENCIES:
+  - Alamofire
+  - Crashlytics
+  - ObjectMapper
+  - PKHUD
+  - SwiftyJSON
+  - "UIAlertView+Blocks"
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Crashlytics
+    - Fabric
+    - ObjectMapper
+    - PKHUD
+    - SwiftyJSON
+    - "UIAlertView+Blocks"
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Crashlytics: 9220f5bc89e7a618df411b4f639389dbfb0e03d2
+  Fabric: ea977e3cd9c20425516d3dafd3bf8c941c51223f
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  "UIAlertView+Blocks": a46c99c5144f6c5dbc7d62fd2a0678daceec89a3
+
+PODFILE CHECKSUM: ab470acd3edf8171d67adbf6501920e09c30fc0e
+
+COCOAPODS: 1.11.2

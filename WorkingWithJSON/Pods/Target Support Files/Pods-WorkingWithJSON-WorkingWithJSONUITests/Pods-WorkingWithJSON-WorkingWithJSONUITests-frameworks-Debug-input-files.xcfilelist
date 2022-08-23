@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-WorkingWithJSON-WorkingWithJSONUITests/Pods-WorkingWithJSON-WorkingWithJSONUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/PKHUD/PKHUD.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/UIAlertView+Blocks/UIAlertView_Blocks.framework
