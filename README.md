@@ -3,4 +3,4 @@ Base for online - offline JSON working, using Alamofire, 2 type of converting mo
 
 Name: Tuan Nguyen Anh.<br />
 Major: Software engineering.<br />
-Workin as IOS Developer.
+Working as IOS Developer.
